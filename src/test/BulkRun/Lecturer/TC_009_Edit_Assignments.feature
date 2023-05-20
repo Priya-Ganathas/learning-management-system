@@ -1,10 +1,10 @@
 #Test Case ID: TC_001
-#Summary:TC_005_Upload_Assignments
+#Summary:TC_009_Edit_Assignments
 
 @TCIP-Automation
-Feature: TC_005_Upload_Assignments
+Feature: TC_009_Edit_Assignments
 
-  Scenario:TC_005_Upload_Assignments
+  Scenario:TC_009_Edit_Assignments
 
     Given user read data from excelsheet "TC_002"
 

@@ -1,10 +1,10 @@
 #Test Case ID: TC_001
-#Summary: TC_007_Add_Lessons
+#Summary: TC_010_Edit_Lessons
 
 @TCIP-Automation
-Feature: TC_007_Add_Lessons
+Feature: TC_010_Edit_Lessons
 
-  Scenario: TC_007_Add_Lessons
+  Scenario: TC_010_Edit_Lessons
 
     Given user read data from excelsheet "TC_002"
 
@@ -27,6 +27,7 @@ Feature: TC_007_Add_Lessons
     When user click on "btn_CloseIcon" in page
     When user upload file "file_UpdateUploadMeterial"
     When user click on "btn_UpdateLesson" in page
+
     When user click on "btn_Options" in page
     When user click on "btn_Delete" in page
 

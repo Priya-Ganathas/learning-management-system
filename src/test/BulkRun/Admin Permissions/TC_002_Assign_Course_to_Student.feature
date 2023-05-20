@@ -1,10 +1,10 @@
 #Test Case ID: TC_001
-#Summary: User_Login
+#Summary: TC_002_Assign_Course_to_Student
 
 @TCIP-Automation
-Feature: TC_001_Login
+Feature: TC_002_Assign_Course_to_Student
 
-  Scenario: TC_001_Add_a_Course
+  Scenario: TC_002_Assign_Course_to_Student
 
     Given user read data from excelsheet "TC_001"
 

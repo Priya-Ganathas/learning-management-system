@@ -20,7 +20,7 @@ Feature: TC_007_Add_Lessons
     When user enter "txt_lessonTitle" into textfield
     When user enter "txt_Content" into textfield
     When user upload file "file_UploadMeterial"
-    When user click on "btn_UpdateLesson" in page
+    When user click on "btn_CreateLesson" in page
 
 
     Then close Browser

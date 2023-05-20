@@ -83,9 +83,6 @@ N
 test-output/testng-results.xml,0\0\00e0b2ae7f44da7a9e12fd1418e328ac78839661
 N
 test-output/testng-reports.css,0\6\068c76965dc9e349fc152beb6fb96e282b12e320
-:
-
-.classpath,3\5\354079a72b91a4280407c16a36f47d1986fd85a5
 V
 &src/main/java/com/tpip/core/Email.java,3\e\3efc034464650dce013882a5f74da2a3baa8b9b6
 ]
@@ -96,7 +93,5 @@ V
 +src/main/java/com/tpip/core/ExcelUtils.java,c\5\c58bc7cc2ea0f6d9a672019d7f28c20d19c43413
 b
 2src/main/java/com/tpip/impl/FileTransafersDef.java,3\8\388c43021134d15f7568e989ec90b040c59af918
-a
-1src/main/java/com/tpip/impl/VerificationsDef.java,9\d\9d96f2ea17955195a902e8ec40bb80f9da446c3d
 ^
 .src/main/java/com/tpip/page/Verifications.java,2\4\24bd93c389304744199ff282bcc97e282e7fcc6e

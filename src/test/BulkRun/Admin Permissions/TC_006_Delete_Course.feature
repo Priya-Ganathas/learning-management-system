@@ -1,10 +1,10 @@
 #Test Case ID: TC_001
-#Summary:TC_005_Upload_Assignments
+#Summary:TC_006_Delete_Course
 
 @TCIP-Automation
-Feature: TC_005_Upload_Assignments
+Feature: TC_006_Delete_Course
 
-  Scenario:TC_005_Upload_Assignments
+  Scenario:TC_006_Delete_Course
 
     Given user read data from excelsheet "TC_001"
 

@@ -11,10 +11,10 @@
     <protocol>https</protocol>
     
     <!-- title of the document -->
-    <documentTitle>TPIP Automation</documentTitle>
+    <documentTitle>My LMS</documentTitle>
     
     <!-- report name - displayed at top-nav -->
-    <reportName>TPIP Automation Test Results</reportName>
+    <reportName>My LMS Test Results</reportName>
     
     <!-- global date format override -->  <!-- defaults to yyyy-MM-dd -->
     <dateFormat>yyyy-MM-dd</dateFormat>
