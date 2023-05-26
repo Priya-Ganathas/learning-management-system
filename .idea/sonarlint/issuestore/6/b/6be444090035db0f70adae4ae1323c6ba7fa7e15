@@ -1,0 +1,37 @@
+
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÕÉôæ8¾‡Ë²ƒ1
+b	java:S112&"FDefine and throw a dedicated exception instead of using a generic one.(Ü¢é8¿‡Ë²ƒ1
+g	java:S112;"FDefine and throw a dedicated exception instead of using a generic one.(éÀ¬Öÿÿÿÿÿ8¿‡Ë²ƒ1
+b	java:S112P"FDefine and throw a dedicated exception instead of using a generic one.(öÿ•É8¿‡Ë²ƒ1
+g	java:S112b"FDefine and throw a dedicated exception instead of using a generic one.(À¿‚İùÿÿÿÿ8¿‡Ë²ƒ1
+b	java:S112r"FDefine and throw a dedicated exception instead of using a generic one.(©”Ä8¿‡Ë²ƒ1
+h	java:S112†"FDefine and throw a dedicated exception instead of using a generic one.(™§Øøÿÿÿÿ8¿‡Ë²ƒ1
+f
+java:S1192"IDefine a constant instead of duplicating this literal " in page" 5 times.(‹°úµ8¿‡Ë²ƒ1
+ƒ
+java:S1192 "aDefine a constant instead of duplicating this literal "Failed! Unable to locate element" 6 times.(Åèæıÿÿÿÿ8¿‡Ë²ƒ1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÉôæ8¿‡Ë²ƒ1
+m	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü¢é8¿‡Ë²ƒ1
+m	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³‡½™8¿‡Ë²ƒ1
+r	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÀ¬Öÿÿÿÿÿ8¿‡Ë²ƒ1
+m	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³‡½™8¿‡Ë²ƒ1
+m	java:S117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÿ•É8¿‡Ë²ƒ1
+r	java:S117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À¿‚İùÿÿÿÿ8¿‡Ë²ƒ1
+m	java:S117r"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©”Ä8¿‡Ë²ƒ1
+s	java:S117†"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™§Øøÿÿÿÿ8¿‡Ë²ƒ1
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÉôæ8Û‡Ë²ƒ1
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(Åèæıÿÿÿÿ8İ‡Ë²ƒ1
+j	java:S100&"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü¢é8Ş‡Ë²ƒ1
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(ƒÂÌİÿÿÿÿÿ8ß‡Ë²ƒ1
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(Åèæıÿÿÿÿ8á‡Ë²ƒ1
+o	java:S100;"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÀ¬Öÿÿÿÿÿ8á‡Ë²ƒ1
+Z	java:S106A"9Replace this use of System.out or System.err by a logger.(ƒÂÌİÿÿÿÿÿ8â‡Ë²ƒ1
+Z	java:S106J"9Replace this use of System.out or System.err by a logger.(Åèæıÿÿÿÿ8â‡Ë²ƒ1
+j	java:S100P"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÿ•É8ã‡Ë²ƒ1
+Z	java:S106]"9Replace this use of System.out or System.err by a logger.(Åèæıÿÿÿÿ8å‡Ë²ƒ1
+o	java:S100b"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À¿‚İùÿÿÿÿ8å‡Ë²ƒ1
+E	java:S108l")Either remove or fill this block of code.(§Ôë½8æ‡Ë²ƒ1
+j	java:S100r"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©”Ä8æ‡Ë²ƒ1
+[	java:S106€"9Replace this use of System.out or System.err by a logger.(Åèæıÿÿÿÿ8é‡Ë²ƒ1
+p	java:S100†"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™§Øøÿÿÿÿ8ê‡Ë²ƒ1
+[	java:S106’"9Replace this use of System.out or System.err by a logger.(Åèæıÿÿÿÿ8ë‡Ë²ƒ1

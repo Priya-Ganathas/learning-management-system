@@ -1,0 +1,20 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(İŞ‘Åÿÿÿÿÿ
+`	java:S112+"FDefine and throw a dedicated exception instead of using a generic one.(â¢øÎüÿÿÿÿ
+[	java:S112B"FDefine and throw a dedicated exception instead of using a generic one.(Œ·ƒÿ
+g
+java:S1192 "QDefine a constant instead of duplicating this literal " in to TextFiled" 3 times.(ª§ŞŞ
+|
+java:S1192%"aDefine a constant instead of duplicating this literal "Failed! Unable to locate element" 3 times.(Åèæıÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İŞ‘Åÿÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§±›ˆ
+k	java:S117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼Ò˜ëùÿÿÿÿ
+f	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ·ƒÿ
+e	java:S117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À‚Ì=
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İŞ‘Åÿÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(Åèæıÿÿÿÿ
+h	java:S100+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â¢øÎüÿÿÿÿ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(ƒÂÌİÿÿÿÿÿ
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(Åèæıÿÿÿÿ
+c	java:S100B"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ·ƒÿ
+S	java:S106O"9Replace this use of System.out or System.err by a logger.(Åèæıÿÿÿÿ

@@ -26,8 +26,6 @@ Feature: TC_005_Admin Update Lessons
     When user click on "btn_CloseIcon" in page
     When user upload file "file_UpdateUploadMeterial"
     When user click on "btn_UpdateLesson" in page
-    When user click on "btn_Options" in page
-    When user click on "btn_Delete" in page
 
     Then close Browser
 

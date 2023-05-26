@@ -1,0 +1,29 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ý½¥Èþÿÿÿÿ8øèòž…1
+b	java:S112C"FDefine and throw a dedicated exception instead of using a generic one.(ï·ÿ¶8ûèòž…1
+m	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´–ø8ûèòž…1
+m	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°¿ÀØ8ûèòž…1
+m	java:S117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø˜Ç¨8ûèòž…1
+l	java:S117R"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çøm8ûèòž…1
+r	java:S117Z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë¿î˜ýÿÿÿÿ8ûèòž…1
+m	java:S117a"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Œý8ûèòž…1
+…
+java:S1488!"hImmediately return this expression instead of assigning it to the temporary variable "reportConfigPath".(³‘‹Þ8üèòž…1
+ˆ
+java:S1488("fImmediately return this expression instead of assigning it to the temporary variable "fileExportPath".(ñêéáùÿÿÿÿ8üèòž…1
+Š
+java:S1488/"mImmediately return this expression instead of assigning it to the temporary variable "FailureScreenshotPath".(´–ø8üèòž…1
+‚
+java:S14886"eImmediately return this expression instead of assigning it to the temporary variable "BrandLogoPath".(°¿ÀØ8üèòž…1
+…
+java:S1488J"hImmediately return this expression instead of assigning it to the temporary variable "chromeDriverPath".(ÂñÙ8üèòž…1
+€
+java:S1488R"dImmediately return this expression instead of assigning it to the temporary variable "IEDriverPath".(Çøm8üèòž…1
+
+java:S1488Z"kImmediately return this expression instead of assigning it to the temporary variable "MasterDataSheetPath".(ë¿î˜ýÿÿÿÿ8üèòž…1
+ˆ
+java:S1488a"kImmediately return this expression instead of assigning it to the temporary variable "MasterDataSheetPath".(‘Œý8üèòž…1
+z	java:S116"YRename this field "SystemFilePath" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å·´øÿÿÿÿ8‰éòž…1
+>
+java:S1170"!Make this final field static too.(§Ì“˜8Šéòž…1
+o	java:S100-"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú•üŒýÿÿÿÿ8›éòž…1

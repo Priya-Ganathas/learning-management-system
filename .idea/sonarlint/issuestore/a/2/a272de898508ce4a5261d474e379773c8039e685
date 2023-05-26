@@ -1,0 +1,11 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ²ÙÊ8‘÷¾±ƒ1
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á¬Ê8—÷¾±ƒ1
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ²ÙÊ8—÷¾±ƒ1
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø£óª8˜÷¾±ƒ1
+j	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÒí8˜÷¾±ƒ1
+o	java:S100%"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÏÿòûÿÿÿÿ8™÷¾±ƒ1
+j	java:S100+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ÕÄÉ8™÷¾±ƒ1
+j	java:S1001"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£İûê8™÷¾±ƒ1
+H
+java:S59608"+Remove this assertion from production code.(µšŞç8™÷¾±ƒ1

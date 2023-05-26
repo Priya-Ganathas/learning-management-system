@@ -1,5 +1,5 @@
 #Test Case ID: TC_001
-#Summary: TC_006_Admin Assign Course to Student
+#Summary: As an institute owner or administrator, I want to assign students to a course so that they can start learning.
 
 @TCIP-Automation
 Feature: TC_006_Admin Assign Course to Student

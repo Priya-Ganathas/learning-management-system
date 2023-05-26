@@ -1,5 +1,5 @@
 #Test Case ID: TC_001
-#Summary:TC_011_Lecturer Add Assignments
+#Summary: TC_011_Lecturer Add Assignments
 
 @TCIP-Automation
 Feature: TC_011_Lecturer Add Assignments

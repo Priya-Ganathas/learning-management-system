@@ -1,0 +1,12 @@
+
+b	java:S112!"FDefine and throw a dedicated exception instead of using a generic one.(ìıÖº8âÜŞ¥‚1
+m	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìıÖº8ãÜŞ¥‚1
+j	java:S100!"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìıÖº8íÜŞ¥‚1
+]	java:S125"<This block of commented-out lines of code should be removed.(¡ãĞüÿÿÿÿ8îÜŞ¥‚1
+]	java:S125"<This block of commented-out lines of code should be removed.(ñ€è´ûÿÿÿÿ8îÜŞ¥‚1
+]	java:S125"<This block of commented-out lines of code should be removed.(¶™ıéúÿÿÿÿ8îÜŞ¥‚1
+{
+java:S2142."^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾8Ê¸«ƒ1
+E	java:S108.")Either remove or fill this block of code.(”ı¾8¬°¹«ƒ1
+R
+java:S1128"5Remove this unused import 'org.openqa.selenium.Keys'.(§Õ8òÜŞ¥‚1

@@ -1,0 +1,29 @@
+
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼™¨»
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(šñÕÏşÿÿÿÿ
+`
+java:S11928"JDefine a constant instead of duplicating this literal "DataSheet" 4 times.(Ô¸ğæ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚”Œ§ùÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åğø‚
+k	java:S117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚”Œ§ùÿÿÿÿ
+f	java:S117H"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åğø‚
+k	java:S117m"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í‚›šşÿÿÿÿ
+k	java:S117s"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚”Œ§ùÿÿÿÿ
+f	java:S117t"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åğø‚
+`
+java:S2095p"JUse try-with-resources or close this "XSSFWorkbook" in a "finally" clause.(ß¨ÿ’
+h
+java:S2095o"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(Š÷‰úúÿÿÿÿ
+h
+java:S2095C"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(Š÷‰úúÿÿÿÿ
+`
+java:S2095"JUse try-with-resources or close this "XSSFWorkbook" in a "finally" clause.(ß¨ÿ’
+`
+java:S2095D"JUse try-with-resources or close this "XSSFWorkbook" in a "finally" clause.(ß¨ÿ’
+h
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(Š÷‰úúÿÿÿÿ
+©
+java:S1845m"Rename method "SetCellData" to prevent any misunderstanding/clash with method "setCellData" defined in superclass "com.tpip.core.ExcelUtils".(Í‚›šşÿÿÿÿ
+h	java:S100m"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í‚›šşÿÿÿÿ
