@@ -1,5 +1,5 @@
 #Test Case ID: TC_001
-#Summary: TC_009_Lecturer Add Lessons
+#Summary: As a lecturer, I want to be able to add Lessons
 
 @TCIP-Automation
 Feature: TC_009_Lecturer Add Lessons

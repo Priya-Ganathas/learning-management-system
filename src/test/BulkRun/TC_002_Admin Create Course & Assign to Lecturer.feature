@@ -1,5 +1,5 @@
 #Test Case ID: TC_001
-#Summary: TC_002_Admin Create Course & Assign to Lecturer
+#Summary: As an institute owner or administrator, I want to create a course so that lecturer and students can get access to the course.
 
 @TCIP-Automation
 Feature: TC_002_Admin Create Course & Assign to Lecturer

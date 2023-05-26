@@ -1,5 +1,5 @@
 #Test Case ID: TC_001
-#Summary:TC_007_Admin Upload Assignments
+#Summary:As an institute owner or administrator, I want to be able to uploadAssignments
 
 @TCIP-Automation
 Feature: TC_007_Admin Upload Assignments

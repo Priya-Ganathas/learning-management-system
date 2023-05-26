@@ -152,11 +152,3 @@ k
 ;src/test/Feature/Students/TC_005_Submit Assignments.feature,f\7\f7d4265016452f947934bb20eecf69a82d6a44ad
 m
 =src/test/Feature/Students/Verify Student View Courses.feature,3\1\3192c156c792557424cc441de43a167c6c362bb7
-x
-Hsrc/test/BulkRun/TC_002_Admin Create Course & Assign to Lecturer.feature,1\c\1ca7c352ccbc775286bfd14f3c3b185f22af8d48
-d
-4src/test/BulkRun/TC_004_Admin Upload Lessons.feature,0\5\0586570e314e230815e8f7b6e64cda3a7a4c050b
-k
-;src/test/BulkRun/TC_008_Verify Student View Courses.feature,7\c\7cf620c52fe3136e74d9c76d4b6e1a8fd836c82d
-d
-4src/test/BulkRun/TC_009_Lecturer Add Lessons.feature,3\7\37bf4d44f1c31a8a294fbe3714b8b31a6284650d

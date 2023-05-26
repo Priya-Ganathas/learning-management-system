@@ -1,5 +1,5 @@
 #Test Case ID: TC_001
-#Summary: TC_004_Admin Upload Lessons
+#Summary: As an institute owner or administrator, I want to be able to upload Lessons
 
 @TCIP-Automation
 Feature: TC_004_Admin Upload Lessons

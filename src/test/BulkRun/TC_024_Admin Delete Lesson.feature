@@ -1,5 +1,5 @@
 #Test Case ID: TC_001
-#Summary:TC_024_Admin Delete Lesson
+#Summary:As an institute owner or administrator, I want to be able to edit or delete a  Lesson
 
 @TCIP-Automation
 Feature: TC_024_Admin Delete Lesson

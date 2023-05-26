@@ -1,5 +1,5 @@
 #Test Case ID: TC_001
-#Summary: TC_011_Lecturer Add Assignments
+#Summary: As a lecturer, I want to be able to add Assignments
 
 @TCIP-Automation
 Feature: TC_011_Lecturer Add Assignments
