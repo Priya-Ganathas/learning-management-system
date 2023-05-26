@@ -1,12 +1,12 @@
 #Test Case ID: TC_001
-#Summary:TC_017_Admin Delete Assignment
+#Summary:  As a student, I should be able to view the grading and feedback by the lecturer given for my submission
 
 @TCIP-Automation
-Feature: TC_017_Admin Delete Assignment
+Feature: TC_021_Student Successful View  Grading and Feedback
 
-  Scenario:TC_017_Admin Delete Assignment
+  Scenario: TC_021_Student Successful View  Grading and Feedback
 
-    Given user read data from excelsheet "Owner"
+    Given user read data from excelsheet "Student"
 
   ##Login to LGIM User
     Given browser is open and load url
@@ -19,7 +19,9 @@ Feature: TC_017_Admin Delete Assignment
 
     When user click on "btn_Assignments" in page
 
-    When user click on "btn_Options" in page
-    When user click on "btn_Delete" in page
+    Then verify value in "lbl_FinalMarks"
+    Then verify value in "lbl_Feedback"
+
     Then close Browser
+
 

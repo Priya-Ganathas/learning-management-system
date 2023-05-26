@@ -17,11 +17,7 @@ Feature: TC_007_Admin Upload Assignments
     When user click on "btn_Courses" in page
     When user click on "btn_CourseAdd" in page
 
-
     When I show the hidden tab "btn_AddAssignment"
-
-
-   # Then the tab should be visible
     When user click on "btn_Assignments" in page
     When user click on "btn_AddAssignment" in page
     When user enter "txt_Assignment Title" into textfield

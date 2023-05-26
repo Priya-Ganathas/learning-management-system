@@ -1,10 +1,11 @@
 #Test Case ID:
-#Summary: As an institute owner or administrator, I want to view the users inside the institute so that I can perform an administrative action.
+#Summary:
+# As an institute owner or administrator, I want to view the users inside the institute so that I can perform an administrative action.
 
 @TCIP-Automation
-Feature: Verify Display Student_Adminitrator_Lecturer List
+Feature: TC_001_Verify Display Student Adminitrator Lecturer List
 
-  Scenario: Verify Display Student_Adminitrator_Lecturer List
+  Scenario: TC_001_Verify Display Student Adminitrator Lecturer List
 
     Given user read data from excelsheet "Owner"
 

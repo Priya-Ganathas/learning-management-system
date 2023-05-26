@@ -1,12 +1,12 @@
 #Test Case ID: TC_001
-#Summary:TC_018_Admin Delete Course
+#Summary:As a Student, I want to be able view student submissions for the assignments
 
 @TCIP-Automation
-Feature: TC_018_Admin Delete Course
+Feature: TC_015_Student View Submission Details
 
-  Scenario:TC_018_Admin Delete Course
+  Scenario: TTC_015_Student View Submission Details
 
-    Given user read data from excelsheet "TC_001"
+    Given user read data from excelsheet "Student"
 
   ##Login to LGIM User
     Given browser is open and load url
@@ -16,7 +16,13 @@ Feature: TC_018_Admin Delete Course
 
     When user click on "btn_Courses" in page
     When user click on "btn_CourseAdd" in page
-    When user click on "btn_CourseDelete" in page
+
+
+    When user click on "btn_Assignments" in page
+
+    Then verify value in "lbl_Assignment Weight"
+    Then verify value in "lbl_Date"
 
     Then close Browser
+
 

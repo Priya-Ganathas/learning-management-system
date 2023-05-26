@@ -1,12 +1,12 @@
 #Test Case ID: TC_001
-#Summary:TC_014_Student Edit Submit Assignments
+#Summary:As an owner, administrator or lecturer, I want to delete the assignments of a course
 
 @TCIP-Automation
-Feature: TC_014_Student Edit Submit Assignments
+Feature: TC_023_Admin Delete Assignment
 
-  Scenario: TC_014_Student Edit Submit Assignments
+  Scenario:TC_023_Admin Delete Assignment
 
-    Given user read data from excelsheet "Student"
+    Given user read data from excelsheet "Owner"
 
   ##Login to LGIM User
     Given browser is open and load url
@@ -18,12 +18,8 @@ Feature: TC_014_Student Edit Submit Assignments
     When user click on "btn_CourseAdd" in page
 
     When user click on "btn_Assignments" in page
-    When user click on "btn_EditAssignmentSubmit" in page
 
-    When user upload file "file_EditSubmitAssignmentMeterial"
-
-    When user click on "btn_AssignmentSubmit" in page
-
+    When user click on "btn_Options" in page
+    When user click on "btn_Delete" in page
     Then close Browser
-
 

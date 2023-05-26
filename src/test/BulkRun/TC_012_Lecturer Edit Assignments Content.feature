@@ -1,10 +1,10 @@
 #Test Case ID: TC_001
-#Summary:TC_010_Lecturer Edit Assignments
+#Summary: #As a lecturer, I want to be able to edit the assignment instructions
 
 @TCIP-Automation
-Feature: TC_010_Lecturer Edit Assignments
+Feature: TC_012_Lecturer Edit Assignments Content
 
-  Scenario:TC_010_Lecturer Edit Assignments
+  Scenario:TC_012_Lecturer Edit Assignments Content
 
     Given user read data from excelsheet "TC_002"
 
@@ -18,9 +18,6 @@ Feature: TC_010_Lecturer Edit Assignments
     When user click on "btn_CourseAdd" in page
 
     When user click on "btn_Assignments" in page
-
-    When user click on "btn_Options" in page
-    When user click on "btn_Make" in page
 
     When user click on "btn_Options" in page
     When user click on "btn_Edit" in page

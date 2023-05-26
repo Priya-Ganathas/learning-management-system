@@ -1,10 +1,10 @@
 #Test Case ID:
-# Summary:TC_015_Lecturer Grade Assignment
+# Summary:As a lecturer, I want to be able to edit the grade and feedback
 
 @TCIP-Automation
-Feature: TC_015_Lecturer Grade Assignment
+Feature: TC_022_Lecturer Edit Grade Assignment
 
-  Scenario:TC_015_Lecturer Grade Assignment
+  Scenario:TC_022_Lecturer Edit Grade Assignment
 
     Given user read data from excelsheet "Lecturer"
 
@@ -20,10 +20,10 @@ Feature: TC_015_Lecturer Grade Assignment
     When I show the hidden tab "btn_AddAssignment"
     When user click on "btn_Assignments" in page
 
-    When user click on "btn_Grade" in page
+    When user click on "btn_EditGrade" in page
 
-    When user enter "txt_Feedback" into textfield
-    When user enter "txt_Marks" into textfield
+    When user enter "txt_EditFeedback" into textfield
+    When user enter "txt_EditMarks" into textfield
 
     When user click on "btn_Submit" in page
 

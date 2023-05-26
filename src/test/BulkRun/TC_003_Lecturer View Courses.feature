@@ -1,5 +1,5 @@
 #Test Case ID:
-#Summary: As an institute owner or administrator, I want to view the users inside the institute so that I can perform an administrative action.
+#Summary: As a teacher, I want to view all the courses that are assigned to me.
 
 @TCIP-Automation
 Feature: TC_003_Lecturer View Courses

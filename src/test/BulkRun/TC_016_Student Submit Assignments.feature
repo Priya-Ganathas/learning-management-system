@@ -1,10 +1,10 @@
 #Test Case ID: TC_001
-#Summary:TC_013_Student Submit Assignments
+#Summary:As a student, I want to make a submission for an assessment in a course so that I can get graded.
 
 @TCIP-Automation
-Feature: TC_013_Student Submit Assignments
+Feature: TC_016_Student Submit Assignments
 
-  Scenario: TC_013_Student Submit Assignments
+  Scenario: TC_016_Student Submit Assignments
 
     Given user read data from excelsheet "Student"
 

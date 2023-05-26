@@ -9,8 +9,6 @@ E
 test-output/style.css,9\7\97e27503dd8a7adfc33c086261e7f6df924e1fd8
 [
 +test-output/Default suite/Default test.html,e\e\ee618e2e5aa3d207f69c99fec27e84c075d26e49
-[
-+test-output/Default suite/testng-failed.xml,e\9\e958d68dbfc53fb43925420823170c846bd36f5d
 W
 'src/main/java/com/tpip/core/Logger.java,a\2\a2d9fcbbb297bb30134d0a18937e7f96f2f2cae6
 `
@@ -70,8 +68,6 @@ Q
 g
 7test-output/old/Default suite/methods-alphabetical.html,4\9\499ed2a824d03f39a020d87940c6d1e6a7f9d8a1
 N
-test-output/testng-results.xml,0\0\00e0b2ae7f44da7a9e12fd1418e328ac78839661
-N
 test-output/testng-reports.css,0\6\068c76965dc9e349fc152beb6fb96e282b12e320
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
@@ -108,3 +104,59 @@ K
 src/config/extentConfig.xml,4\5\450f159b8baabde0c3c863ee90d1f4897cf596fc
 d
 4src/test/java/com/tpip/test/runner/TestNGRunner.java,9\1\918774c43cc5e9b62243a9bd588096690206fa4d
+b
+2src/main/java/com/tpip/core/ExcelDataProvider.java,4\a\4acba0a7eadf73bc4a9fce8059724ed4e2db30db
+V
+&src/main/java/com/tpip/core/Email.java,3\e\3efc034464650dce013882a5f74da2a3baa8b9b6
+Y
+)src/main/java/com/tpip/core/Constant.java,b\2\b269f33b72fe52aeb2357c62637b7872287d08b5
+a
+1src/main/java/com/tpip/core/DirectoryCreator.java,c\a\cadd346c5a656f1b7fc2c6053bcfb4987d1905e2
+[
++src/main/java/com/tpip/core/ExcelUtils.java,c\5\c58bc7cc2ea0f6d9a672019d7f28c20d19c43413
+]
+-src/main/java/com/tpip/core/PageObjectFW.java,4\8\486bb6b4536f08e3549a5fb576e344f31e3968dc
+a
+1src/main/java/com/tpip/core/ConfigFileReader.java,d\8\d849c0d983cbe0506a3ddd2c70f54c6a76cabade
+b
+2src/main/java/com/tpip/core/FileReaderManager.java,f\a\fa074e99fb3bfa3e8da1eada7a4b45f69ee22e04
+T
+$src/main/java/com/tpip/core/Log.java,a\4\a4e7812f4d95007689a6d98a078f6e8f21890270
+o
+?src/test/Feature/Admin Permissions/TC_006_Delete_Course.feature,b\5\b52b46d51131f68e358153ec366f01e1dfaf8969
+o
+?src/test/Feature/Admin Permissions/TC_001_Create_Course.feature,1\c\1c125d129e94603daadf0e4f52e711217116bd5b
+p
+@src/test/Feature/Admin Permissions/TC_003_Upload_Lessons.feature,f\5\f5e64217b5eaa1a30615fc5d6ef352be79835be3
+o
+?src/test/Feature/Admin Permissions/TC_006_Delete_Lesson.feature,7\e\7e5bd0442f44f94d4575c29d8455aa1b58ea1c87
+t
+Dsrc/test/Feature/Admin Permissions/TC_005_Upload_Assignments.feature,a\9\a98f83e70bfc7c3b598afc4f19daa5faa17ef187
+s
+Csrc/test/Feature/Admin Permissions/TC_006_Delete_Assignment.feature,7\4\74adea9a850e68d2c9ede88b2bb4c657992c1461
+z
+Jsrc/test/Feature/Admin Permissions/TC_002_Assign_Course_to_Student.feature,b\f\bfa039eac597fdd16120053c24583ecece981637
+x
+Hsrc/test/Feature/Admin Permissions/TC_004_Upload_Lessons_Options.feature,3\6\36de832a945c19e4468ee6afe0acecc00fbd0b67
+d
+4src/test/Feature/Lecturer/TC_007_Add_Lessons.feature,e\d\edff4dcb117ae501e5cf87c470de2cc2774087d5
+h
+8src/test/Feature/Lecturer/TC_008_Add_Assignments.feature,e\9\e9c62bf0d19daa92bc7b695d8c2b4d2f2eae3303
+e
+5src/test/Feature/Lecturer/TC_010_Edit_Lessons.feature,3\7\374a699d373faa98780c5f5cfc81623360928673
+n
+>src/test/Feature/Lecturer/Verify Lecturer View Courses.feature,d\d\dd2b2789ad8bcdfa2cec9c6339ac1c06c9855170
+i
+9src/test/Feature/Lecturer/TC_009_Edit_Assignments.feature,a\0\a0bb61d9986a365c42238b6f24e3c612f18d416c
+k
+;src/test/Feature/Students/TC_005_Submit Assignments.feature,f\7\f7d4265016452f947934bb20eecf69a82d6a44ad
+m
+=src/test/Feature/Students/Verify Student View Courses.feature,3\1\3192c156c792557424cc441de43a167c6c362bb7
+x
+Hsrc/test/BulkRun/TC_002_Admin Create Course & Assign to Lecturer.feature,1\c\1ca7c352ccbc775286bfd14f3c3b185f22af8d48
+d
+4src/test/BulkRun/TC_004_Admin Upload Lessons.feature,0\5\0586570e314e230815e8f7b6e64cda3a7a4c050b
+k
+;src/test/BulkRun/TC_008_Verify Student View Courses.feature,7\c\7cf620c52fe3136e74d9c76d4b6e1a8fd836c82d
+d
+4src/test/BulkRun/TC_009_Lecturer Add Lessons.feature,3\7\37bf4d44f1c31a8a294fbe3714b8b31a6284650d

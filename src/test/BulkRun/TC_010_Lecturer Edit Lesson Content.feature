@@ -1,10 +1,10 @@
 #Test Case ID: TC_001
-#Summary: TC_012_Lecturer Edit Lessons
+#Summary: As an administrator or teacher, I want to create course content so that students can view the content and learn.
 
 @TCIP-Automation
-Feature: TC_012_Lecturer Edit Lessons
+Feature: TC_010_Lecturer Edit Lesson Content
 
-  Scenario: TC_012_Lecturer Edit Lessons
+  Scenario: TC_010_Lecturer Edit Lesson Content
 
     Given user read data from excelsheet "TC_002"
 
@@ -18,9 +18,6 @@ Feature: TC_012_Lecturer Edit Lessons
     When user click on "btn_CourseAdd" in page
 
     When user click on "btn_Options" in page
-    When user click on "btn_Make" in page
-
-    When user click on "btn_Options" in page
     When user click on "btn_Edit" in page
     When user enter "txt_UpdatelessonTitle" into textfield
     When user enter "txt_UpdateContent" into textfield
@@ -28,8 +25,8 @@ Feature: TC_012_Lecturer Edit Lessons
     When user upload file "file_UpdateUploadMeterial"
     When user click on "btn_UpdateLesson" in page
 
-    When user click on "btn_Options" in page
-    When user click on "btn_Delete" in page
+    #When user click on "btn_Options" in page
+    #When user click on "btn_Delete" in page
 
     Then close Browser
 

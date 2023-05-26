@@ -1,10 +1,10 @@
 #Test Case ID: TC_001
-#Summary:TC_019_Admin Delete Lesson
+#Summary:TC_024_Admin Delete Lesson
 
 @TCIP-Automation
-Feature: TC_019_Admin Delete Lesson
+Feature: TC_024_Admin Delete Lesson
 
-  Scenario:TC_019_Admin Delete Lesson
+  Scenario:TC_024_Admin Delete Lesson
 
     Given user read data from excelsheet "Owner"
 
